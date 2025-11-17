@@ -1,8 +1,34 @@
-# React + Vite
+STARTING FRONTEND:
+movie casting (folder)
+npm i (install all packages for frontend)
+npm run dev(run the frontend application)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+STARTING BACKEND (API):
+api (folder)
+npm i (install all packages for backend)
+npm start ( start the server)
 
-Currently, two official plugins are available:
+PREREQUISITE:
+1. Node and Npm installed
+2. text editor (VS code - I have used)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+VERSIONS:
+Node- v20.11.1
+Npm - 10.2.4
+
+
+Things You will learn in this  project:
+FRONTEND:
+a. Routing
+b. Protection of Route
+c. Axios library (http call to server)
+d. Formik and  Yup (Form handling - error handling specially)
+e. State Management ( react-redux, redux-toolkit)
+etc
+BACKEND:
+a. Express
+b. mongodb database
+c. jsonwebtoken (for authentication)
+d. bcrypt (for password encryption)
+c. formidable (for file upload)
+etc
